@@ -1,0 +1,40 @@
+{
+  "name": "wci-nodejs-web-scraper",
+  "version": "1.0.0",
+  "description": "A web scraper for NodeJs (improved and modified for WeClimb.it",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "web scraper",
+    "crawler",
+    "web crawler",
+    "web scraper",
+    "web-crawler",
+    "web-scraper",
+    "nodejs",
+    "node"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "https-proxy-agent": "^5.0.0",
+    "mime-types": "^2.1.20",
+    "node-fetch": "^2.6.1",
+    "qyu": "^0.4.7",
+    "request-promise": "^4.2.6",
+    "rxjs": "^6.6.7",
+    "sanitize-filename": "^1.6.1"
+  },
+  "homepage": "https://nodejs-web-scraper.ibrod83.com/",
+  "bugs": {
+    "url": "https://github.com/ibrod83/nodejs-web-scraper/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibrod83/nodejs-web-scraper.git"
+  }
+}
